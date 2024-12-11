@@ -1,4 +1,5 @@
 # eVTOL_RL
+Code and data preparing for upload
 
 ## Citation
 If you find our work useful, please consider citing our paper as follows:
